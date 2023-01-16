@@ -1,0 +1,99 @@
+body {
+    width: 60%;
+    margin: auto;
+}
+
+#testa {
+    background-size: 30%;
+    height: 100px;
+    background-color: #4086c7 ;
+    background-image: url(img/pattern.png);
+}
+
+#logo {
+    height: 50px;
+    width: 150px;
+    margin-top: 50px;
+}
+
+h1 {
+    font-size: 50px;
+    margin: 0 5px 0 5px;
+}
+
+#intestazione {
+    color: grey ;
+}
+
+#autore {
+    color: rgb(0, 204, 255);
+}
+
+#immagini_tim {
+    display: inline;
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+
+.didascalia {
+    margin-top: 0px;
+}
+
+.paragrafo {
+    height: 100px;
+    margin-top: 50px;
+}
+
+ul {
+    margin-bottom: 50px;
+}
+
+table {
+    width: 100%;
+    height: 200px;
+    border-collapse: collapse;
+}
+
+#int_tabella {
+    background-color: rgb(0, 119, 255);
+    
+}
+.azzurro {
+    background-color: rgb(0, 217, 255);
+}
+
+
+.th0 {
+    width: 25%;
+    height: 20px;
+    
+}
+#th2 {
+    height: 20px;
+    width: 50%;
+}
+.prima {
+    height: 60px;
+    width: 25%;
+}
+.seconda {
+    height: 60px;
+    width: 50%;
+}
+h4 {
+    color: grey;
+}
+#articolo1 {
+    background-image: url(img/monitor.jpg);
+    height: 150px;
+    width: 150px;
+    color: white;
+    margin-bottom: 10px;
+}
+#articolo2 {
+    background-image: url(img/graph.jpg);
+    height: 150px;
+    width: 150px;
+    color: white;
+}
+
