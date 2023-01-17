@@ -1,4 +1,5 @@
-body {
+
+.container {
     width: 60%;
     margin: auto;
 }
@@ -14,6 +15,7 @@ body {
     height: 50px;
     width: 150px;
     margin-top: 50px;
+    margin-left: 260px;
 }
 
 h1 {
